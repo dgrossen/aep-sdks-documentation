@@ -54,7 +54,7 @@ To execute the code in the code editor, click Validate . The function should ret
 
 When the view is first loaded, it provides an empty function with JSDoc comments that define how the function accepts the events parameter with the expected return output. Currently, the view allows you to manage several validation scripts by leveraging the browser's cache.
 
-You can create a new validation script by editing the existing script’s name in the drop-down list. To save or delete the script, click the appropriate button next to the Script Name field.
+You can create a new validation script by editing the existing script’s name in the drop-down list. To save or delete the script, click the appropriate button next to the **Script Name** field.
 
 ![](../../../.gitbook/assets/griffon-custom-validation-save.png)
 
